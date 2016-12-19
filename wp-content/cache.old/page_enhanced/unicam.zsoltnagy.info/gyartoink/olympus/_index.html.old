@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olympus - Unicam Unicam</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/favicon-128.png" sizes="128x128" />
+    <meta name="application-name" content="Unicam"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/favicon/mstile-310x310.png" />
+
+    
+<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<link rel="canonical" href="http://unicam.zsoltnagy.info/gyartoink/olympus" />
+<meta property="og:locale" content="hu_HU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Olympus - Unicam" />
+<meta property="og:url" content="http://unicam.zsoltnagy.info/gyartoink/olympus" />
+<meta property="og:site_name" content="Unicam" />
+<meta property="og:image" content="http://unicam.zsoltnagy.info/files/unicam_placeholder.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="1200" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Olympus - Unicam" />
+<meta name="twitter:image" content="http://unicam.zsoltnagy.info/files/unicam_placeholder.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com'>
+<link rel='dns-prefetch' href='//s.w.org'>
+<link rel="alternate" type="application/rss+xml" title="Unicam &raquo; hírcsatorna" href="http://unicam.zsoltnagy.info/feed" />
+<link rel="alternate" type="application/rss+xml" title="Unicam &raquo; hozzászólás hírcsatorna" href="http://unicam.zsoltnagy.info/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/unicam.zsoltnagy.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='unicam-css'  href='http://unicam.zsoltnagy.info/wp-content/themes/unicam/css/style.css?ver=4.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='print-css'  href='http://unicam.zsoltnagy.info/wp-content/themes/unicam/css/print.css?ver=1' type='text/css' media='print' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://unicam.zsoltnagy.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-theme-css'  href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.min.css?ver=1.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-css'  href='http://unicam.zsoltnagy.info/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='SearchAutocomplete-theme-css'  href='http://unicam.zsoltnagy.info/wp-content/plugins/search-autocomplete/css/unicam/jquery-ui-aristo.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-content/themes/unicam/js/main.js?ver=4.6'></script>
+<link rel='https://api.w.org/' href='http://unicam.zsoltnagy.info/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://unicam.zsoltnagy.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://unicam.zsoltnagy.info/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6" />
+<link rel='shortlink' href='http://unicam.zsoltnagy.info/?p=79' />
+<link rel="alternate" type="application/json+oembed" href="http://unicam.zsoltnagy.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Funicam.zsoltnagy.info%2Fgyartoink%2Folympus" />
+<link rel="alternate" type="text/xml+oembed" href="http://unicam.zsoltnagy.info/wp-json/oembed/1.0/embed?url=http%3A%2F%2Funicam.zsoltnagy.info%2Fgyartoink%2Folympus&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		        <script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body class="cbp-spmenu-push class="single single-gyartoink postid-79"">
+  <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1157215624324959',
+      xfbml      : true,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+  <!-- Modal -->
+  <div class="modal fullscreen-modal fade white-modal" id="mobileContact" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="row">
+            <div class="col-xs-3 col-sm-3 modal-close-button" data-dismiss="modal" aria-label="Close">
+              <svg style="width:36px;height:36px" viewBox="0 0 24 24">
+                  <path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z" />
+              </svg>
+            </div>
+            <div class="col-xs-6 col-sm-6 modal-logo logo-space">
+              <div class="logo"></div>
+            </div>
+            <div class="col-xs-3 col-sm-3"></div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-sm-12 col-xs-12 text">
+              <div class="info">
+                <p>
+                  Ha további kérdései lennének az oldalon található termékekkel kapcsolatban, vagy árajánlatot szeretne kérni, kérjük hívja kollégánkat az alábbi elérhetőségeken, vagy küldjön üzenetet űrlapunk segítségével!
+                </p>
+              </div>
+            </div>
+            <div class="col-sm-12 col-xs-12 image">
+                            <h2 class="name">
+                              </h2>
+              <h3 class="position">
+                              </h3>
+            </div>
+            <div class="col-sm-12 col-xs-12 text">
+              <div class="contact">
+                <div class="tel">
+                  <a href="tel:
+                                    ">
+                    Tel:
+                                      </a>
+                </div>
+                <div class="email">
+                  <a href="mailto:
+                                    ">
+                    E-mail:
+                                      </a>
+                </div>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="sendform container">
+              <h2 class="title">
+                Küldjön üzenetet
+              </h2>
+              <div role="form" class="wpcf7" id="wpcf7-f89-o1" lang="hu-HU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/gyartoink/olympus#wpcf7-f89-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="89" />
+<input type="hidden" name="_wpcf7_version" value="4.5" />
+<input type="hidden" name="_wpcf7_locale" value="hu_HU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f89-o1" />
+<input type="hidden" name="_wpnonce" value="dff9548d81" />
+</div>
+<p><span class="wpcf7-form-control-wrap kereskedonek"><input type="hidden" name="kereskedonek" value="" size="40" class="wpcf7-form-control wpcf7dtx-dynamictext wpcf7-dynamichidden" aria-invalid="false" /></span></p>
+
+<!-- CF7 Modules -->
+<div style='display:none;'><input type="hidden" name="hidden-92" value="" class="wpcf7-form-control wpcf7-hidden" /></div>
+<!-- End CF7 Modules -->
+
+<p>Az Ön vene (kötelező)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Az Ön e-mail címe (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Az Ön üzenete<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="Üzenet küldése" class="wpcf7-form-control wpcf7-submit send-form" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="munkatarsForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="row">
+            <div class="col-xs-3 col-sm-3 modal-close-button" data-dismiss="modal" aria-label="Close">
+              <svg style="width:36px;height:36px" viewBox="0 0 24 24">
+                  <path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z" />
+              </svg>
+            </div>
+            <div class="col-xs-6 col-sm-6 modal-logo logo-space">
+              <div class="logo"></div>
+            </div>
+            <div class="col-xs-3 col-sm-3"></div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-sm-4 col-xs-4 image">
+                            <h2 class="name">
+                            </h2>
+              <h3 class="position">
+                              </h3>
+            </div>
+            <div class="col-sm-8 col-xs-8 text">
+              <div class="info">
+                <p>
+                  Ha további kérdései lennének az oldalon található termékekkel kapcsolatban, vagy árajánlatot szeretne kérni, kérjük hívja kollégánkat az alábbi elérhetőségeken, vagy küldjön üzenetet űrlapunk segítségével!
+                </p>
+              </div>
+              <div class="contact">
+                <div class="tel">
+                  <a href="tel:
+                                    ">
+                    Tel:
+                                      </a>
+                </div>
+                <div class="email">
+                  <a href="mailto:
+                                    ">
+                    E-mail:
+                                      </a>
+                </div>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+              <div class="sendform">
+                <h2 class="title">
+                  Küldjön üzenetet!
+                </h2>
+                <div role="form" class="wpcf7" id="wpcf7-f89-o2" lang="hu-HU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/gyartoink/olympus#wpcf7-f89-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="89" />
+<input type="hidden" name="_wpcf7_version" value="4.5" />
+<input type="hidden" name="_wpcf7_locale" value="hu_HU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f89-o2" />
+<input type="hidden" name="_wpnonce" value="dff9548d81" />
+</div>
+<p><span class="wpcf7-form-control-wrap kereskedonek"><input type="hidden" name="kereskedonek" value="" size="40" class="wpcf7-form-control wpcf7dtx-dynamictext wpcf7-dynamichidden" aria-invalid="false" /></span></p>
+
+<!-- CF7 Modules -->
+<div style='display:none;'><input type="hidden" name="hidden-92" value="" class="wpcf7-form-control wpcf7-hidden" /></div>
+<!-- End CF7 Modules -->
+
+<p>Az Ön vene (kötelező)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Az Ön e-mail címe (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Az Ön üzenete<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="Üzenet küldése" class="wpcf7-form-control wpcf7-submit send-form" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="munkatarsFormRolunk" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="row">
+            <div class="col-xs-3 col-sm-3 modal-close-button" data-dismiss="modal" aria-label="Close">
+              <svg style="width:36px;height:36px" viewBox="0 0 24 24">
+                  <path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z" />
+              </svg>
+            </div>
+            <div class="col-xs-6 col-sm-6 modal-logo logo-space">
+              <div class="logo"></div>
+            </div>
+            <div class="col-xs-3 col-sm-3"></div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-sm-4 col-xs-4 image">
+                            <h2 class="name">
+                            </h2>
+              <h3 class="position">
+                              </h3>
+            </div>
+            <div class="col-sm-8 col-xs-8 text">
+              <div class="info">
+                <p>
+                  Ha további kérdései lennének az oldalon található termékekkel kapcsolatban, vagy árajánlatot szeretne kérni, kérjük hívja kollégánkat az alábbi elérhetőségeken, vagy küldjön üzenetet űrlapunk segítségével!
+                </p>
+              </div>
+              <div class="contact">
+                <div class="tel">
+                  <a href="tel:
+                                    ">
+                    Tel:
+                                      </a>
+                </div>
+                <div class="email">
+                  <a href="mailto:
+                                    ">
+                    E-mail:
+                                      </a>
+                </div>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+              <div class="sendform">
+                <h2 class="title">
+                  Küldjön üzenetet!
+                </h2>
+                <div role="form" class="wpcf7" id="wpcf7-f89-o3" lang="hu-HU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/gyartoink/olympus#wpcf7-f89-o3" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="89" />
+<input type="hidden" name="_wpcf7_version" value="4.5" />
+<input type="hidden" name="_wpcf7_locale" value="hu_HU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f89-o3" />
+<input type="hidden" name="_wpnonce" value="dff9548d81" />
+</div>
+<p><span class="wpcf7-form-control-wrap kereskedonek"><input type="hidden" name="kereskedonek" value="" size="40" class="wpcf7-form-control wpcf7dtx-dynamictext wpcf7-dynamichidden" aria-invalid="false" /></span></p>
+
+<!-- CF7 Modules -->
+<div style='display:none;'><input type="hidden" name="hidden-92" value="" class="wpcf7-form-control wpcf7-hidden" /></div>
+<!-- End CF7 Modules -->
+
+<p>Az Ön vene (kötelező)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Az Ön e-mail címe (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Az Ön üzenete<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="Üzenet küldése" class="wpcf7-form-control wpcf7-submit send-form" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="isoModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="row">
+            <div class="col-xs-3 col-sm-3 modal-close-button" data-dismiss="modal" aria-label="Close">
+              <svg style="width:36px;height:36px" viewBox="0 0 24 24">
+                  <path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z" />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <img src="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/uniiso.jpg" class="img-responsive" />
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="main-wrapper">
+<header class="header container-fluid">
+    <div class="row visible-lg visible-md desktop-header">
+        <div class="container table-view">
+            <div class="menu-row">
+                <div class="col-lg-3 col-md-3 logo-space">
+                    <a href="http://unicam.zsoltnagy.info">
+                        <div class="logo"></div>
+                    </a>
+                </div>
+                <div class="col-lg-9 col-md-9 menu-desktop visible-lg visible-md">
+                    <!-- ul class="list-unstyled menu-list">
+                        <li><a href="#">Termekek</a></li>
+                        <li><a href="#">Gyartok</a></li>
+                        <li><a href="#">Szerviz</a></li>
+                        <li><a href="#">Rolunk</a></li>
+                        <li>
+                            <a href="#">
+                                <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                                    <path fill="#FF1A24" d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+                                </svg>
+                            </a>
+                        </li>
+                    </ul -->
+                    <ul id="menu-topmenu" class="menu-list list-unstyled"><li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://unicam.zsoltnagy.info/termek">Termékek</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14 current-menu-item"><a href="http://unicam.zsoltnagy.info/gyartok">Gyártók</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="http://unicam.zsoltnagy.info/szerviz">Szerviz</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://unicam.zsoltnagy.info/rolunk">Rólunk</a></li>
+<li id="menu-item-16" class="desktop-search-trigger menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a><svg style="width:24px;height:24px" viewBox="0 0 24 24">                                     <path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />                                 </svg></a></li>
+</ul>                </div>
+            </div>
+        </div>
+        <div class="breadcrumb dark">
+          <div class="container">
+            <div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
+    <!-- Breadcrumb NavXT 5.5.1 -->
+<span class="indicator">Ön itt van:</span><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Unicam." href="http://unicam.zsoltnagy.info" class="home"><span property="name">Főoldal</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Gyártók." href="http://unicam.zsoltnagy.info/gyartok" class="gyartoink-root post post-gyartoink"><span property="name">Gyártók</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name">Olympus</span><meta property="position" content="3"></span></div>
+<div class="search-open-desktop hidden-xs hidden-sm">
+  <div class="search-bar container">
+    <form role="search" method="get" class="search-form" action="http://unicam.zsoltnagy.info/">
+  		<input type="search" class="search-field searchform" placeholder="Keresés…" value="" name="s" title="Keresés" />
+       <input type="hidden" name="post_type" value="termekeink">
+  	  <input type="submit" class="search-submit" value="Keresés" />
+    </form>
+  </div>
+</div>
+          </div>
+        </div>
+    </div>
+    <div class="row visible-sm visible-xs mobile-header">
+      <div class="menu-trigger col-sm-3 col-xs-3 icon menu-icon pull-left">
+        <svg style="width:36px;height:36px" viewBox="0 0 24 24">
+            <path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
+        </svg>
+      </div>
+      <div class="col-sm-6 col-xs-6 logo-space">
+        <a href="http://unicam.zsoltnagy.info">
+            <div class="logo"></div>
+        </a>
+      </div>
+      <div class="col-sm-3 col-xs-3 icon search-icon search-icon-mobile pull-right">
+        <svg style="width:36px;height:36px" viewBox="0 0 24 24">
+            <path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+        </svg>
+      </div>
+      <div class="mobile-search-open dark">
+
+
+        <form role="search" method="get" class="mobile-search-form" action="http://unicam.zsoltnagy.info/">
+      		<input type="search" class="mobile-search-input" placeholder="Keresés…" value="" name="s" title="Keresés" />
+           <input type="hidden" name="post_type" value="termekeink">
+      	  <input type="submit" class="mobile-search-send" value="Keresés" />
+        </form>
+      </div>
+    </div>
+</header>
+<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+	<ul id="menu-mobile-menu" class="accordion-list list-unstyled"><li id="menu-item-1141" class="accordion-item menu-item menu-item-type-custom menu-item-object-custom menu-item-1141"><a href="/"><span class="icon item-icon">                   <svg style="width:20px;height:20px" viewBox="0 0 24 24">     <path fill="#000000" d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z" /> </svg>                 </span>                 <h3 class="title">                   FŐOLDAL                 </h3></a></li>
+<li id="menu-item-1145" class="accordion-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1145"><a href="http://unicam.zsoltnagy.info/hirek"><span class="icon item-icon">                   <svg style="width:20px;height:20px" viewBox="0 0 24 24">     <path fill="#000000" d="M20,11H4V8H20M20,15H13V13H20M20,19H13V17H20M11,19H4V13H11M20.33,4.67L18.67,3L17,4.67L15.33,3L13.67,4.67L12,3L10.33,4.67L8.67,3L7,4.67L5.33,3L3.67,4.67L2,3V19A2,2 0 0,0 4,21H20A2,2 0 0,0 22,19V3L20.33,4.67Z" /> </svg>                 </span>                 <h3 class="title">                   HÍREK                 </h3></a></li>
+<li id="menu-item-1146" class="accordion-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1146"><a href="http://unicam.zsoltnagy.info/esemenyek"><span class="icon item-icon">                   <svg style="width:20px;height:20px" viewBox="0 0 24 24">     <path fill="#000000" d="M14,14H7V16H14M19,19H5V8H19M19,3H18V1H16V3H8V1H6V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3M17,10H7V12H17V10Z" /> </svg>                 </span>                 <h3 class="title">                   ESEMÉNYEK                 </h3></a></li>
+<li id="menu-item-1134" class="accordion-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1134"><a href="http://unicam.zsoltnagy.info/termek"><span class="icon item-icon">                   <svg style="width:20px;height:20px" viewBox="0 0 24 24">                       <path d="M5,19A1,1 0 0,0 6,20H18A1,1 0 0,0 19,19C19,18.79 18.93,18.59 18.82,18.43L13,8.35V4H11V8.35L5.18,18.43C5.07,18.59 5,18.79 5,19M6,22A3,3 0 0,1 3,19C3,18.4 3.18,17.84 3.5,17.37L9,7.81V6A1,1 0 0,1 8,5V4A2,2 0 0,1 10,2H14A2,2 0 0,1 16,4V5A1,1 0 0,1 15,6V7.81L20.5,17.37C20.82,17.84 21,18.4 21,19A3,3 0 0,1 18,22H6M13,16L14.34,14.66L16.27,18H7.73L10.39,13.39L13,16M12.5,12A0.5,0.5 0 0,1 13,12.5A0.5,0.5 0 0,1 12.5,13A0.5,0.5 0 0,1 12,12.5A0.5,0.5 0 0,1 12.5,12Z" />                   </svg>                 </span>                 <h3 class="title">                   TERMÉKEK                 </h3></a></li>
+<li id="menu-item-1131" class="accordion-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1131"><a href="http://unicam.zsoltnagy.info/gyartok"><span class="icon item-icon">                   <svg style="width:20px;height:20px" viewBox="0 0 24 24">                       <path d="M12,15.5A3.5,3.5 0 0,1 8.5,12A3.5,3.5 0 0,1 12,8.5A3.5,3.5 0 0,1 15.5,12A3.5,3.5 0 0,1 12,15.5M19.43,12.97C19.47,12.65 19.5,12.33 19.5,12C19.5,11.67 19.47,11.34 19.43,11L21.54,9.37C21.73,9.22 21.78,8.95 21.66,8.73L19.66,5.27C19.54,5.05 19.27,4.96 19.05,5.05L16.56,6.05C16.04,5.66 15.5,5.32 14.87,5.07L14.5,2.42C14.46,2.18 14.25,2 14,2H10C9.75,2 9.54,2.18 9.5,2.42L9.13,5.07C8.5,5.32 7.96,5.66 7.44,6.05L4.95,5.05C4.73,4.96 4.46,5.05 4.34,5.27L2.34,8.73C2.21,8.95 2.27,9.22 2.46,9.37L4.57,11C4.53,11.34 4.5,11.67 4.5,12C4.5,12.33 4.53,12.65 4.57,12.97L2.46,14.63C2.27,14.78 2.21,15.05 2.34,15.27L4.34,18.73C4.46,18.95 4.73,19.03 4.95,18.95L7.44,17.94C7.96,18.34 8.5,18.68 9.13,18.93L9.5,21.58C9.54,21.82 9.75,22 10,22H14C14.25,22 14.46,21.82 14.5,21.58L14.87,18.93C15.5,18.67 16.04,18.34 16.56,17.94L19.05,18.95C19.27,19.03 19.54,18.95 19.66,18.73L21.66,15.27C21.78,15.05 21.73,14.78 21.54,14.63L19.43,12.97Z" />                   </svg>                 </span>                 <h3 class="title">                   GYÁRTÓK                 </h3></a></li>
+<li id="menu-item-1133" class="accordion-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1133"><a href="http://unicam.zsoltnagy.info/szerviz"><span class="icon item-icon">                   <svg style="width:20px;height:20px" viewBox="0 0 24 24">                       <path d="M22.7,19L13.6,9.9C14.5,7.6 14,4.9 12.1,3C10.1,1 7.1,0.6 4.7,1.7L9,6L6,9L1.6,4.7C0.4,7.1 0.9,10.1 2.9,12.1C4.8,14 7.5,14.5 9.8,13.6L18.9,22.7C19.3,23.1 19.9,23.1 20.3,22.7L22.6,20.4C23.1,20 23.1,19.3 22.7,19Z" />                   </svg>                 </span>                 <h3 class="title">                   SZERVIZ                 </h3></a></li>
+<li id="menu-item-1132" class="accordion-item menu-item menu-item-type-post_type menu-item-object-page menu-item-1132"><a href="http://unicam.zsoltnagy.info/rolunk"><span class="icon item-icon">                   <svg style="width:20px;height:20px" viewBox="0 0 24 24">                       <path d="M12,4A4,4 0 0,1 16,8A4,4 0 0,1 12,12A4,4 0 0,1 8,8A4,4 0 0,1 12,4M12,14C16.42,14 20,15.79 20,18V20H4V18C4,15.79 7.58,14 12,14Z" />                   </svg>                 </span>                 <h3 class="title">                   RÓLUNK                 </h3></a></li>
+</ul></nav>
+<div class="menu-dark-overlay"></div>
+<div class="logo-print">
+  <img src="http://unicam.zsoltnagy.info/wp-content/themes/unicam/img/unicam_logo.png" />
+  <div class="address">
+    <span>
+      <b>Címünk:</b> Budapest, Kőszeg u. 27
+    </span>
+    <span>
+      <b>Tel:</b> 1-2215536
+    </span>
+    <span>
+      <b>Fax:</b> 1-2215543
+    </span>
+    <span>
+      <b>E-mail:</b> unicam@unicam.hu
+    </span>
+  </div>
+</div>
+
+<section class="list page">
+  <div class="container-fluid">
+    <div class="row list-row">
+      <div class="container">
+                              <div class="manufacturer-logospace col-lg-12 col-md-12">
+              <div class="visible-lg visible-md">
+                Forgalmazott
+              </div>
+                                <div class="logo">
+                    <img class="img-responsive" src="http://unicam.zsoltnagy.info/files/2016/06/olympus-logo-wallpaper-e1467296008194.jpg" alt="" />
+                  </div>
+                            <div class="visible-lg visible-md">
+                termékek
+              </div>
+            </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx53">
+                         <img width="93" height="200" src="http://unicam.zsoltnagy.info/files/bx53/BX53_001-93x200.jpeg" class="img-responsive wp-post-image" alt="BX53" srcset="http://unicam.zsoltnagy.info/files/bx53/BX53_001-93x200.jpeg 93w, http://unicam.zsoltnagy.info/files/bx53/BX53_001-139x300.jpeg 139w, http://unicam.zsoltnagy.info/files/bx53/BX53_001-160x346.jpeg 160w, http://unicam.zsoltnagy.info/files/bx53/BX53_001.jpeg 463w" sizes="(max-width: 93px) 100vw, 93px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx53">
+                         BX53                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx63">
+                         <img width="319" height="200" src="http://unicam.zsoltnagy.info/files/bx63/BX63_001-319x200.jpeg" class="img-responsive wp-post-image" alt="Bx63" srcset="http://unicam.zsoltnagy.info/files/bx63/BX63_001-319x200.jpeg 319w, http://unicam.zsoltnagy.info/files/bx63/BX63_001-300x188.jpeg 300w, http://unicam.zsoltnagy.info/files/bx63/BX63_001-768x481.jpeg 768w, http://unicam.zsoltnagy.info/files/bx63/BX63_001-160x100.jpeg 160w, http://unicam.zsoltnagy.info/files/bx63/BX63_001.jpeg 1000w" sizes="(max-width: 319px) 100vw, 319px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx63">
+                         BX63                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cell-counter-r1">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cell-counter-r1">
+                         Cell Counter R1                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cellsens">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cellsens">
+                         cellSens                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cix90">
+                         <img width="375" height="200" src="http://unicam.zsoltnagy.info/files/cix90/CIX90_1-375x200.jpg" class="img-responsive wp-post-image" alt="CIX90_1" srcset="http://unicam.zsoltnagy.info/files/cix90/CIX90_1-375x200.jpg 375w, http://unicam.zsoltnagy.info/files/cix90/CIX90_1-300x160.jpg 300w, http://unicam.zsoltnagy.info/files/cix90/CIX90_1-160x85.jpg 160w, http://unicam.zsoltnagy.info/files/cix90/CIX90_1.jpg 535w" sizes="(max-width: 375px) 100vw, 375px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cix90">
+                         CIX90                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ckx-ccsw">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ckx-ccsw">
+                         CKX-CCSW                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ckx53">
+                         <img width="300" height="200" src="http://unicam.zsoltnagy.info/files/ckx53/CKX53_001-300x200.jpeg" class="img-responsive wp-post-image" alt="CKX53" srcset="http://unicam.zsoltnagy.info/files/ckx53/CKX53_001-300x200.jpeg 300w, http://unicam.zsoltnagy.info/files/ckx53/CKX53_001-768x512.jpeg 768w, http://unicam.zsoltnagy.info/files/ckx53/CKX53_001-160x107.jpeg 160w, http://unicam.zsoltnagy.info/files/ckx53/CKX53_001.jpeg 1000w" sizes="(max-width: 300px) 100vw, 300px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ckx53">
+                         CKX53                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cx23">
+                         <img width="141" height="200" src="http://unicam.zsoltnagy.info/files/cx23/CX23_001-141x200.jpeg" class="img-responsive wp-post-image" alt="CX23" srcset="http://unicam.zsoltnagy.info/files/cx23/CX23_001-141x200.jpeg 141w, http://unicam.zsoltnagy.info/files/cx23/CX23_001-211x300.jpeg 211w, http://unicam.zsoltnagy.info/files/cx23/CX23_001-160x227.jpeg 160w, http://unicam.zsoltnagy.info/files/cx23/CX23_001.jpeg 704w" sizes="(max-width: 141px) 100vw, 141px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cx23">
+                         CX23                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cx31">
+                         <img width="158" height="200" src="http://unicam.zsoltnagy.info/files/cx31/CX31_001-158x200.jpeg" class="img-responsive wp-post-image" alt="CX31" srcset="http://unicam.zsoltnagy.info/files/cx31/CX31_001-158x200.jpeg 158w, http://unicam.zsoltnagy.info/files/cx31/CX31_001-237x300.jpeg 237w, http://unicam.zsoltnagy.info/files/cx31/CX31_001-768x972.jpeg 768w, http://unicam.zsoltnagy.info/files/cx31/CX31_001-160x203.jpeg 160w, http://unicam.zsoltnagy.info/files/cx31/CX31_001.jpeg 790w" sizes="(max-width: 158px) 100vw, 158px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cx31">
+                         CX31                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cx41">
+                         <img width="80" height="200" src="http://unicam.zsoltnagy.info/files/cx41/CX41_001-80x200.jpeg" class="img-responsive wp-post-image" alt="CX41, Routine microscope, mirrored, white background, diagonal view" srcset="http://unicam.zsoltnagy.info/files/cx41/CX41_001-80x200.jpeg 80w, http://unicam.zsoltnagy.info/files/cx41/CX41_001-160x402.jpeg 160w, http://unicam.zsoltnagy.info/files/cx41/CX41_001.jpeg 398w" sizes="(max-width: 80px) 100vw, 80px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/cx41">
+                         CX41                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp22">
+                         <img width="317" height="200" src="http://unicam.zsoltnagy.info/files/dp22/DP-22_680x429-317x200.jpg" class="img-responsive wp-post-image" alt="DP-22_680x429" srcset="http://unicam.zsoltnagy.info/files/dp22/DP-22_680x429-317x200.jpg 317w, http://unicam.zsoltnagy.info/files/dp22/DP-22_680x429-300x189.jpg 300w, http://unicam.zsoltnagy.info/files/dp22/DP-22_680x429-160x101.jpg 160w, http://unicam.zsoltnagy.info/files/dp22/DP-22_680x429.jpg 680w" sizes="(max-width: 317px) 100vw, 317px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp22">
+                         DP22                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp27">
+                         <img width="317" height="200" src="http://unicam.zsoltnagy.info/files/dp27/DP27-317x200.jpg" class="img-responsive wp-post-image" alt="DP27" srcset="http://unicam.zsoltnagy.info/files/dp27/DP27-317x200.jpg 317w, http://unicam.zsoltnagy.info/files/dp27/DP27-300x189.jpg 300w, http://unicam.zsoltnagy.info/files/dp27/DP27-160x101.jpg 160w, http://unicam.zsoltnagy.info/files/dp27/DP27.jpg 680w" sizes="(max-width: 317px) 100vw, 317px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp27">
+                         DP27                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dionex-ultimate-3000-rslcnano-rendszer">
+                         <img width="103" height="200" src="http://unicam.zsoltnagy.info/files/2016/06/dnx3000rsl-103x200.jpg" class="img-responsive wp-post-image" alt="dnx3000rsl" srcset="http://unicam.zsoltnagy.info/files/2016/06/dnx3000rsl-103x200.jpg 103w, http://unicam.zsoltnagy.info/files/2016/06/dnx3000rsl-154x300.jpg 154w, http://unicam.zsoltnagy.info/files/2016/06/dnx3000rsl-160x311.jpg 160w, http://unicam.zsoltnagy.info/files/2016/06/dnx3000rsl.jpg 398w" sizes="(max-width: 103px) 100vw, 103px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dionex-ultimate-3000-rslcnano-rendszer">
+                         Dionex UltiMate® 3000 RSLCnano rendszer                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp73">
+                         <img width="203" height="200" src="http://unicam.zsoltnagy.info/files/dp73/DP73-203x200.jpg" class="img-responsive wp-post-image" alt="DP73" srcset="http://unicam.zsoltnagy.info/files/dp73/DP73-203x200.jpg 203w, http://unicam.zsoltnagy.info/files/dp73/DP73-300x296.jpg 300w, http://unicam.zsoltnagy.info/files/dp73/DP73-768x758.jpg 768w, http://unicam.zsoltnagy.info/files/dp73/DP73-1024x1010.jpg 1024w, http://unicam.zsoltnagy.info/files/dp73/DP73-160x158.jpg 160w" sizes="(max-width: 203px) 100vw, 203px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp73">
+                         DP73                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp80">
+                         <img width="185" height="200" src="http://unicam.zsoltnagy.info/files/dp80/DP80-185x200.jpg" class="img-responsive wp-post-image" alt="DP80" srcset="http://unicam.zsoltnagy.info/files/dp80/DP80-185x200.jpg 185w, http://unicam.zsoltnagy.info/files/dp80/DP80-277x300.jpg 277w, http://unicam.zsoltnagy.info/files/dp80/DP80-768x831.jpg 768w, http://unicam.zsoltnagy.info/files/dp80/DP80-160x173.jpg 160w, http://unicam.zsoltnagy.info/files/dp80/DP80.jpg 945w" sizes="(max-width: 185px) 100vw, 185px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dp80">
+                         DP80                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dsx-sorozat">
+                         <img width="267" height="200" src="http://unicam.zsoltnagy.info/files/dsx-sorozat/DSX_sorozat_1-267x200.jpg" class="img-responsive wp-post-image" alt="DSX_sorozat_1" srcset="http://unicam.zsoltnagy.info/files/dsx-sorozat/DSX_sorozat_1-267x200.jpg 267w, http://unicam.zsoltnagy.info/files/dsx-sorozat/DSX_sorozat_1-300x225.jpg 300w, http://unicam.zsoltnagy.info/files/dsx-sorozat/DSX_sorozat_1.jpg 480w, http://unicam.zsoltnagy.info/files/dsx-sorozat/DSX_sorozat_1-160x120.jpg 160w" sizes="(max-width: 267px) 100vw, 267px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/dsx-sorozat">
+                         DSX sorozat                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/fluoview-fv3000">
+                         <img width="314" height="200" src="http://unicam.zsoltnagy.info/files/fluoview-fv3000/Fluoview_FV3000_OPTICAL_0223_4655-314x200.jpeg" class="img-responsive wp-post-image" alt="FV3000" srcset="http://unicam.zsoltnagy.info/files/fluoview-fv3000/Fluoview_FV3000_OPTICAL_0223_4655-314x200.jpeg 314w, http://unicam.zsoltnagy.info/files/fluoview-fv3000/Fluoview_FV3000_OPTICAL_0223_4655-300x191.jpeg 300w, http://unicam.zsoltnagy.info/files/fluoview-fv3000/Fluoview_FV3000_OPTICAL_0223_4655-768x488.jpeg 768w, http://unicam.zsoltnagy.info/files/fluoview-fv3000/Fluoview_FV3000_OPTICAL_0223_4655-160x102.jpeg 160w, http://unicam.zsoltnagy.info/files/fluoview-fv3000/Fluoview_FV3000_OPTICAL_0223_4655.jpeg 1000w" sizes="(max-width: 314px) 100vw, 314px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/fluoview-fv3000">
+                         FluoView FV3000                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/olympus-cx31">
+                         <img width="169" height="200" src="http://unicam.zsoltnagy.info/files/2016/06/ColorFlex_EZ_2-169x200.jpg" class="img-responsive wp-post-image" alt="ColorFlex_EZ_2" srcset="http://unicam.zsoltnagy.info/files/2016/06/ColorFlex_EZ_2-169x200.jpg 169w, http://unicam.zsoltnagy.info/files/2016/06/ColorFlex_EZ_2-254x300.jpg 254w, http://unicam.zsoltnagy.info/files/2016/06/ColorFlex_EZ_2-768x909.jpg 768w, http://unicam.zsoltnagy.info/files/2016/06/ColorFlex_EZ_2-865x1024.jpg 865w, http://unicam.zsoltnagy.info/files/2016/06/ColorFlex_EZ_2-160x189.jpg 160w" sizes="(max-width: 169px) 100vw, 169px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/olympus-cx31">
+                         OLYMPUS CX31                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ix53">
+                         <img width="162" height="200" src="http://unicam.zsoltnagy.info/files/ix53/IX53_001-162x200.jpeg" class="img-responsive wp-post-image" alt="ID: 771" srcset="http://unicam.zsoltnagy.info/files/ix53/IX53_001-162x200.jpeg 162w, http://unicam.zsoltnagy.info/files/ix53/IX53_001-243x300.jpeg 243w, http://unicam.zsoltnagy.info/files/ix53/IX53_001-768x949.jpeg 768w, http://unicam.zsoltnagy.info/files/ix53/IX53_001-160x198.jpeg 160w, http://unicam.zsoltnagy.info/files/ix53/IX53_001.jpeg 809w" sizes="(max-width: 162px) 100vw, 162px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ix53">
+                         IX53                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ix73">
+                         <img width="158" height="200" src="http://unicam.zsoltnagy.info/files/ix73/IX73_001-158x200.jpeg" class="img-responsive wp-post-image" alt="IX73" srcset="http://unicam.zsoltnagy.info/files/ix73/IX73_001-158x200.jpeg 158w, http://unicam.zsoltnagy.info/files/ix73/IX73_001-237x300.jpeg 237w, http://unicam.zsoltnagy.info/files/ix73/IX73_001-768x972.jpeg 768w, http://unicam.zsoltnagy.info/files/ix73/IX73_001-160x203.jpeg 160w, http://unicam.zsoltnagy.info/files/ix73/IX73_001.jpeg 790w" sizes="(max-width: 158px) 100vw, 158px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/ix73">
+                         IX73                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/mvx10">
+                         <img width="85" height="200" src="http://unicam.zsoltnagy.info/files/mvx10/MVX10_001-85x200.jpeg" class="img-responsive wp-post-image" alt="MVX10" srcset="http://unicam.zsoltnagy.info/files/mvx10/MVX10_001-85x200.jpeg 85w, http://unicam.zsoltnagy.info/files/mvx10/MVX10_001-128x300.jpeg 128w, http://unicam.zsoltnagy.info/files/mvx10/MVX10_001-160x376.jpeg 160w, http://unicam.zsoltnagy.info/files/mvx10/MVX10_001.jpeg 426w" sizes="(max-width: 85px) 100vw, 85px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/mvx10">
+                         MVX10                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/mvx10ms">
+                         <img width="85" height="200" src="http://unicam.zsoltnagy.info/files/mvx10ms/MVX10_001-85x200.jpeg" class="img-responsive wp-post-image" alt="MVX10, Research Macro Zoom System Microscope, mirrored,  diagonal view, white background" srcset="http://unicam.zsoltnagy.info/files/mvx10ms/MVX10_001-85x200.jpeg 85w, http://unicam.zsoltnagy.info/files/mvx10ms/MVX10_001-128x300.jpeg 128w, http://unicam.zsoltnagy.info/files/mvx10ms/MVX10_001-160x376.jpeg 160w, http://unicam.zsoltnagy.info/files/mvx10ms/MVX10_001.jpeg 426w" sizes="(max-width: 85px) 100vw, 85px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/mvx10ms">
+                         MVX10MS                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sc50">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sc50">
+                         SC50                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sc100">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sc100">
+                         SC100                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/stream">
+                         <img width="236" height="200" src="http://unicam.zsoltnagy.info/files/stream/stream_4-236x200.jpg" class="img-responsive wp-post-image" alt="stream_4" srcset="http://unicam.zsoltnagy.info/files/stream/stream_4-236x200.jpg 236w, http://unicam.zsoltnagy.info/files/stream/stream_4-300x254.jpg 300w, http://unicam.zsoltnagy.info/files/stream/stream_4-160x135.jpg 160w, http://unicam.zsoltnagy.info/files/stream/stream_4.jpg 519w" sizes="(max-width: 236px) 100vw, 236px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/stream">
+                         Stream                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sz51">
+                         <img width="224" height="200" src="http://unicam.zsoltnagy.info/files/sz51/SZ51_003-224x200.jpeg" class="img-responsive wp-post-image" alt="SZ2 Series" srcset="http://unicam.zsoltnagy.info/files/sz51/SZ51_003-224x200.jpeg 224w, http://unicam.zsoltnagy.info/files/sz51/SZ51_003-300x268.jpeg 300w, http://unicam.zsoltnagy.info/files/sz51/SZ51_003-768x685.jpeg 768w, http://unicam.zsoltnagy.info/files/sz51/SZ51_003-160x143.jpeg 160w, http://unicam.zsoltnagy.info/files/sz51/SZ51_003.jpeg 1000w" sizes="(max-width: 224px) 100vw, 224px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sz51">
+                         SZ51                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sz61">
+                         <img width="115" height="200" src="http://unicam.zsoltnagy.info/files/sz61/SZ61_001-115x200.jpeg" class="img-responsive wp-post-image" alt="mirrored, white background, perspective, life science, Stereo zoom, ComfortView eyepieces, pupil aberration control, LED illumination, Greenough optical" srcset="http://unicam.zsoltnagy.info/files/sz61/SZ61_001-115x200.jpeg 115w, http://unicam.zsoltnagy.info/files/sz61/SZ61_001-172x300.jpeg 172w, http://unicam.zsoltnagy.info/files/sz61/SZ61_001-160x279.jpeg 160w, http://unicam.zsoltnagy.info/files/sz61/SZ61_001.jpeg 573w" sizes="(max-width: 115px) 100vw, 115px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/sz61">
+                         SZ61                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/szx7">
+                         <img width="164" height="200" src="http://unicam.zsoltnagy.info/files/szx7/SZX7_002-164x200.jpeg" class="img-responsive wp-post-image" alt="SZX7" srcset="http://unicam.zsoltnagy.info/files/szx7/SZX7_002-164x200.jpeg 164w, http://unicam.zsoltnagy.info/files/szx7/SZX7_002-247x300.jpeg 247w, http://unicam.zsoltnagy.info/files/szx7/SZX7_002-768x934.jpeg 768w, http://unicam.zsoltnagy.info/files/szx7/SZX7_002-160x195.jpeg 160w, http://unicam.zsoltnagy.info/files/szx7/SZX7_002.jpeg 822w" sizes="(max-width: 164px) 100vw, 164px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/szx7">
+                         SZX7                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/szx10">
+                         <img width="110" height="200" src="http://unicam.zsoltnagy.info/files/szx10/SZX10_002-110x200.jpeg" class="img-responsive wp-post-image" alt="SZX10, Advanced routine stereomicroscope, mirrored, white background" srcset="http://unicam.zsoltnagy.info/files/szx10/SZX10_002-110x200.jpeg 110w, http://unicam.zsoltnagy.info/files/szx10/SZX10_002-165x300.jpeg 165w, http://unicam.zsoltnagy.info/files/szx10/SZX10_002-160x291.jpeg 160w, http://unicam.zsoltnagy.info/files/szx10/SZX10_002.jpeg 550w" sizes="(max-width: 110px) 100vw, 110px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/szx10">
+                         SZX10                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/szx16">
+                         <img width="159" height="200" src="http://unicam.zsoltnagy.info/files/szx16/SZX16_001-159x200.jpeg" class="img-responsive wp-post-image" alt="SZ16" srcset="http://unicam.zsoltnagy.info/files/szx16/SZX16_001-159x200.jpeg 159w, http://unicam.zsoltnagy.info/files/szx16/SZX16_001-239x300.jpeg 239w, http://unicam.zsoltnagy.info/files/szx16/SZX16_001-768x966.jpeg 768w, http://unicam.zsoltnagy.info/files/szx16/SZX16_001-160x201.jpeg 160w, http://unicam.zsoltnagy.info/files/szx16/SZX16_001.jpeg 795w" sizes="(max-width: 159px) 100vw, 159px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/szx16">
+                         SZX16                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/uc30">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/uc30">
+                         UC30                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/uc50">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/uc50">
+                         UC50                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/uc90">
+                         <img width="280" height="200" src="http://unicam.zsoltnagy.info/files/automatikus-vazlat/UC90-280x200.png" class="img-responsive wp-post-image" alt="UC90" srcset="http://unicam.zsoltnagy.info/files/automatikus-vazlat/UC90-280x200.png 280w, http://unicam.zsoltnagy.info/files/automatikus-vazlat/UC90-300x215.png 300w, http://unicam.zsoltnagy.info/files/automatikus-vazlat/UC90-768x549.png 768w, http://unicam.zsoltnagy.info/files/automatikus-vazlat/UC90-1024x733.png 1024w, http://unicam.zsoltnagy.info/files/automatikus-vazlat/UC90-160x114.png 160w, http://unicam.zsoltnagy.info/files/automatikus-vazlat/UC90.png 1156w" sizes="(max-width: 280px) 100vw, 280px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/uc90">
+                         UC90                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/xc10">
+                         <img width="267" height="200" src="http://unicam.zsoltnagy.info/files/xc10/XC10-267x200.jpg" class="img-responsive wp-post-image" alt="XC10" srcset="http://unicam.zsoltnagy.info/files/xc10/XC10-267x200.jpg 267w, http://unicam.zsoltnagy.info/files/xc10/XC10-300x225.jpg 300w, http://unicam.zsoltnagy.info/files/xc10/XC10.jpg 480w, http://unicam.zsoltnagy.info/files/xc10/XC10-160x120.jpg 160w" sizes="(max-width: 267px) 100vw, 267px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/xc10">
+                         XC10                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/xc30">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/xc30">
+                         XC30                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/xc50">
+                         <img width="200" height="200" src="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png" class="img-responsive default-featured-img" alt="unicam_placeholder" srcset="http://unicam.zsoltnagy.info/files/unicam_placeholder-200x200.png 200w, http://unicam.zsoltnagy.info/files/unicam_placeholder-150x150.png 150w, http://unicam.zsoltnagy.info/files/unicam_placeholder-300x300.png 300w, http://unicam.zsoltnagy.info/files/unicam_placeholder-768x768.png 768w, http://unicam.zsoltnagy.info/files/unicam_placeholder-1024x1024.png 1024w, http://unicam.zsoltnagy.info/files/unicam_placeholder-280x280.png 280w, http://unicam.zsoltnagy.info/files/unicam_placeholder-160x160.png 160w, http://unicam.zsoltnagy.info/files/unicam_placeholder.png 1200w" sizes="(max-width: 200px) 100vw, 200px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/xc50">
+                         XC50                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/fluoview-fvmpe-rs">
+                         <img width="293" height="200" src="http://unicam.zsoltnagy.info/files/fluoview-fvmpe-rs/FVMP_RS_Invert_Upright_Arrangement_CMYK_v01_4000-293x200.jpeg" class="img-responsive wp-post-image" alt="FVMPE-RS" srcset="http://unicam.zsoltnagy.info/files/fluoview-fvmpe-rs/FVMP_RS_Invert_Upright_Arrangement_CMYK_v01_4000-293x200.jpeg 293w, http://unicam.zsoltnagy.info/files/fluoview-fvmpe-rs/FVMP_RS_Invert_Upright_Arrangement_CMYK_v01_4000-300x205.jpeg 300w, http://unicam.zsoltnagy.info/files/fluoview-fvmpe-rs/FVMP_RS_Invert_Upright_Arrangement_CMYK_v01_4000-768x525.jpeg 768w, http://unicam.zsoltnagy.info/files/fluoview-fvmpe-rs/FVMP_RS_Invert_Upright_Arrangement_CMYK_v01_4000-160x109.jpeg 160w, http://unicam.zsoltnagy.info/files/fluoview-fvmpe-rs/FVMP_RS_Invert_Upright_Arrangement_CMYK_v01_4000.jpeg 1000w" sizes="(max-width: 293px) 100vw, 293px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/fluoview-fvmpe-rs">
+                         FluoView FVMPE-RS                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx3m-sorozat">
+                         <img width="267" height="200" src="http://unicam.zsoltnagy.info/files/bx3m-sorozat/BX53M_1-267x200.jpg" class="img-responsive wp-post-image" alt="BX53M_1" srcset="http://unicam.zsoltnagy.info/files/bx3m-sorozat/BX53M_1-267x200.jpg 267w, http://unicam.zsoltnagy.info/files/bx3m-sorozat/BX53M_1-300x225.jpg 300w, http://unicam.zsoltnagy.info/files/bx3m-sorozat/BX53M_1.jpg 480w, http://unicam.zsoltnagy.info/files/bx3m-sorozat/BX53M_1-160x120.jpg 160w" sizes="(max-width: 267px) 100vw, 267px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx3m-sorozat">
+                         BX3M sorozat                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx43">
+                         <img width="98" height="200" src="http://unicam.zsoltnagy.info/files/bx43/BX43_001-98x200.jpeg" class="img-responsive wp-post-image" alt="BX43" srcset="http://unicam.zsoltnagy.info/files/bx43/BX43_001-98x200.jpeg 98w, http://unicam.zsoltnagy.info/files/bx43/BX43_001-148x300.jpeg 148w, http://unicam.zsoltnagy.info/files/bx43/BX43_001-160x325.jpeg 160w, http://unicam.zsoltnagy.info/files/bx43/BX43_001.jpeg 492w" sizes="(max-width: 98px) 100vw, 98px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx43">
+                         BX43                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                           <div class="col-lg-3 col-md-3 list-card">
+                 <div class="list-inside">
+                   <div class="image">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx46">
+                         <img width="85" height="200" src="http://unicam.zsoltnagy.info/files/bx46/BX46_001-85x200.jpeg" class="img-responsive wp-post-image" alt="BX46" srcset="http://unicam.zsoltnagy.info/files/bx46/BX46_001-85x200.jpeg 85w, http://unicam.zsoltnagy.info/files/bx46/BX46_001-128x300.jpeg 128w, http://unicam.zsoltnagy.info/files/bx46/BX46_001-160x376.jpeg 160w, http://unicam.zsoltnagy.info/files/bx46/BX46_001.jpeg 425w" sizes="(max-width: 85px) 100vw, 85px" />                       </a>
+                   </div>
+                   <div class="title-wrapper dark">
+                     <h2 class="title">
+                       <a href="http://unicam.zsoltnagy.info/termekeink/bx46">
+                         BX46                       </a>
+                     </h2>
+                   </div>
+                 </div>
+               </div>
+                                    </div>
+  </div>
+</div>
+</section>
+
+<footer class="footer dark">
+  <div class="container">
+    <div class="row footer-contact">
+        <div class="col-lg-3 col-md-3 contact-block">
+          <b>Címünk:</b> <a target="_blank" href="https://www.google.com/maps/place/Budapest,+Kőszeg+u.+27,+1144+Magyarország/@47.507508,19.1372863,17z/data=!3m1!4b1!4m5!3m4!1s0x4741db5425bf4339:0xc9f1878597f5823d!8m2!3d47.507508!4d19.139475">Budapest, Kőszeg u. 27</a>
+        </div>
+        <!-- <div class="col-lg-1 col-md-1 contact-bullet">
+          <span class="bullet"></span>
+        </div> -->
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 contact-block">
+          <b>Tel:</b> <a href="tel: +3612215536">1-2215536</a>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 contact-block">
+          <b>Fax:</b> <a href="tel: +3612215536">1-2215543</a>
+        </div>
+        <div class="clearfix visible-xs"></div>
+        <div class="col-lg-3 col-md-3 contact-block">
+          <b>E-mail:</b> <a href="mailto: unicam@unicam.hu">unicam@unicam.hu</a>
+        </div>
+      </div>
+    <div class="row footer-social">
+
+      <div class="col-lg-4 col-md-4 contact-block">
+      <div class="social-icon facebook">
+        <a href="#" target="_blank">
+          <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+              <path d="M17,2V2H17V6H15C14.31,6 14,6.81 14,7.5V10H14L17,10V14H14V22H10V14H7V10H10V6A4,4 0 0,1 14,2H17Z" />
+          </svg>
+        </a>
+      </div>
+      <div class="social-icon linkedin">
+        <a href="#" target="_blank">
+          <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+              <path d="M21,21H17V14.25C17,13.19 15.81,12.31 14.75,12.31C13.69,12.31 13,13.19 13,14.25V21H9V9H13V11C13.66,9.93 15.36,9.24 16.5,9.24C19,9.24 21,11.28 21,13.75V21M7,21H3V9H7V21M5,3A2,2 0 0,1 7,5A2,2 0 0,1 5,7A2,2 0 0,1 3,5A2,2 0 0,1 5,3Z" />
+          </svg>
+        </a>
+      </div>
+      <div class="social-icon youtube">
+        <a href="#" target="_blank">
+          <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+              <path d="M10,16.5V7.5L16,12M20,4.4C19.4,4.2 15.7,4 12,4C8.3,4 4.6,4.19 4,4.38C2.44,4.9 2,8.4 2,12C2,15.59 2.44,19.1 4,19.61C4.6,19.81 8.3,20 12,20C15.7,20 19.4,19.81 20,19.61C21.56,19.1 22,15.59 22,12C22,8.4 21.56,4.91 20,4.4Z" />
+          </svg>
+        </a>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 contact-block">
+      <div class="copyright">
+        Copyright 2016. Minden jog fenntartva.
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 hidden-sm hidden-xs contact-block language-selector">
+                <a href="/about-us"><div class="flag flag-english"></div></a>        
+    </div>
+
+      </div>
+    </div>
+  </div>
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: none;">
+        <g id="next-button">
+		      <path class="arrow" d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
+	      </g>
+        <g id="prev-button">
+		      <path class="arrow" d="M15.41,16.58L10.83,12L15.41,7.41L14,6L8,12L14,18L15.41,16.58Z" />
+	      </g>
+        <g id="plus-icon">
+		      <path fill="#ffffff" class="plus" d="M19,13H13V19H11V13H5V11H11V5H13V11H19V13Z" />
+	      </g>
+    </svg>
+</footer>
+</div>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/unicam.zsoltnagy.info\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Er\u0151s\u00edts\u00fck meg, hogy emberb\u0151l vagyunk."}},"sending":"K\u00fcld\u00e9s....","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Bez\u00e1r\u00e1s","currentText":"Ma","monthNames":["janu\u00e1r","febru\u00e1r","m\u00e1rcius","\u00e1prilis","m\u00e1jus","j\u00fanius","j\u00falius","augusztus","szeptember","okt\u00f3ber","november","december"],"monthNamesShort":["jan","feb","M\u00e1r","\u00e1pr","m\u00e1j","j\u00fan","J\u00fal","aug","Sze","okt","nov","dec"],"nextText":"K\u00f6vetkez\u0151 ","prevText":"El\u0151z\u0151","dayNames":["vas\u00e1rnap","h\u00e9tf\u0151","kedd","szerda","cs\u00fct\u00f6rt\u00f6k","p\u00e9ntek","szombat"],"dayNamesShort":["vas","h\u00e9t","ked","sze","cs\u00fc","p\u00e9n","szo"],"dayNamesMin":["v","h","k","s","c","p","s"],"dateFormat":"yy-mm-dd","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/i18n/datepicker-hu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=4.6'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/i18n/jquery-ui-timepicker-hu.js?ver=4.6'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=4.6'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/wp-a11y.min.js?ver=4.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"Sajnos, nincs a keres\u00e9si felt\u00e9teleknek megfelel\u0151 tal\u00e1lat.","oneResult":"1 tal\u00e1lat. Haszn\u00e1ljuk a fel \u00e9s le gombokat a navig\u00e1l\u00e1shoz.","manyResults":"%d tal\u00e1lat. Haszn\u00e1ljuk a fel \u00e9s le gombokat a navig\u00e1l\u00e1shoz."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SearchAutocomplete = {"ajaxurl":"http:\/\/unicam.zsoltnagy.info\/wp-admin\/admin-ajax.php","fieldName":"[name=\"s\"]","minLength":"3","delay":"500","autoFocus":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-content/plugins/search-autocomplete/js/search-autocomplete.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://unicam.zsoltnagy.info/wp-includes/js/wp-embed.min.js?ver=4.6'></script>
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: unicam.zsoltnagy.info @ 2016-09-06 16:34:40 by W3 Total Cache -->

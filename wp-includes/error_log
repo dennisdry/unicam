@@ -1,0 +1,2 @@
+[27-Oct-2016 15:49:27 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/unicamh/public_html/wp-includes/rss-functions.php on line 8
+[30-Nov-2016 12:02:29 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/unicamh/public_html/wp-includes/rss-functions.php on line 8

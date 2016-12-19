@@ -1,0 +1,193 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
+@page {
+  size: A4;
+}
+@page :left {
+  margin-left: 1cm;
+}
+@page :right {
+  margin-left: 1cm;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+}
+.productpage .product-header {
+  position: relative;
+}
+.productpage .product-header .title-wrapper {
+  width: 60%;
+  float: left;
+  display: inline-block;
+}
+.productpage .product-header .manufacturer-logo {
+  width: 40%;
+  right: 0;
+  top: 0;
+  display: inline-block;
+}
+.productpage .product-header .manufacturer-logo img {
+  width: 100%;
+}
+.productpage button {
+  display: none;
+}
+.productpage .seller-card {
+  display: block;
+  float: left;
+  margin-bottom: 0;
+  bottom: 0;
+}
+.productpage .seller-card .image {
+  margin: 0;
+}
+.productpage .seller-card img {
+  display: none;
+  float: left;
+}
+.productpage .seller-card .name {
+  display: inline-block;
+  width: 78%;
+  float: right;
+  margin: 0;
+  font-size: 18px;
+}
+.productpage .seller-card .position {
+  display: inline-block;
+  width: 78%;
+  float: right;
+  font-size: 14px;
+}
+.productpage .seller-card .text {
+  display: inline-block;
+  width: 78%;
+  float: right;
+}
+.productpage .seller-card .text .info,
+.productpage .seller-card .text .sendmail {
+  display: none;
+}
+.productpage .seller-card .text .contact div {
+  margin: 0.5em 0;
+}
+.single-termekeink h1.title {
+  font-size: 2em;
+  width: 70%;
+}
+.single-termekeink .product-header {
+  position: relative;
+}
+.single-termekeink .product-header img {
+  width: 2in;
+  display: inline-block;
+  right: 0;
+  position: absolute;
+  margin: -0.8in 0 0 0;
+}
+.single-termekeink .product-header .title-wrapper {
+  width: 60%;
+}
+.single-termekeink .product-header .manufacturer-logo {
+  width: 40%;
+}
+.single-termekeink .product-header .manufacturer-logo img {
+  width: 100%;
+}
+.single-termekeink .product-header button {
+  display: none;
+}
+.single-termekeink .product-description {
+  font-size: 16px;
+  border-bottom: 1px solid #eee;
+}
+.single-termekeink .seller-card {
+  display: block;
+  float: left;
+  margin: 1em 0;
+  bottom: 0;
+  position: absolute;
+}
+.single-termekeink .seller-card img {
+  width: 20%;
+  display: inline-block;
+  float: left;
+}
+.single-termekeink .seller-card .name {
+  display: inline-block;
+  width: 78%;
+  float: right;
+  margin: 0;
+  font-size: 18px;
+}
+.single-termekeink .seller-card .position {
+  display: inline-block;
+  width: 78%;
+  float: right;
+  font-size: 14px;
+}
+.single-termekeink .seller-card .text {
+  display: inline-block;
+  width: 78%;
+  float: right;
+}
+.single-termekeink .seller-card .text .info,
+.single-termekeink .seller-card .text .sendmail {
+  display: none;
+}
+.single-termekeink .seller-card .text .contact div {
+  margin: 0.5em 0;
+}
+.single-termekeink .product-accordion {
+  display: none;
+}
+.logo-print {
+  margin: 1em 0;
+  padding: 1em 0;
+  border-bottom: 1px solid #eee;
+  position: relative;
+  height: 4em;
+}
+.logo-print img {
+  width: 3in;
+  position: absolute;
+  float: left;
+}
+.logo-print .address {
+  float: right;
+  font-size: 14px;
+  opacity: .6;
+}
+.logo-print .address span {
+  display: block;
+}
+.product-slider {
+  text-align: center;
+}
+.product-slider img {
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+}
+.modal,
+#menu-topmenu,
+.search-open-desktop,
+.breadcrumb,
+.share-wrapper,
+.mobile-header,
+footer,
+.arrow-wrapper,
+.product-slider-pager,
+.product-accordion,
+.mobile-accordion,
+.related-videos,
+.menu-dark-overlay,
+.cbp-spmenu {
+  display: none !important;
+}
+a[href]:after {
+  content: "" !important;
+}
+a {
+  color: black;
+  text-decoration: none;
+}

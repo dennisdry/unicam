@@ -1,0 +1,222 @@
+<?php get_header(); ?>
+
+<!-- <script type="text/javascript">(function () {
+            if (window.addtocalendar)if(typeof window.addtocalendar.start == "function")return;
+            if (window.ifaddtocalendar == undefined) { window.ifaddtocalendar = 1;
+                var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+                s.type = 'text/javascript';s.charset = 'UTF-8';s.async = true;
+                s.src = ('https:' == window.location.protocol ? 'https' : 'http')+'://addtocalendar.com/atc/1.5/atc.min.js';
+                var h = d[g]('body')[0];h.appendChild(s); }})();
+    </script> -->
+
+
+
+<section class="event-page">
+  <div class="container">
+    <article class="row">
+        <div class="event-header">
+          <div class="col-lg-5 col-md-5 left">
+            <header>
+              <h2 class="title">
+                <?php the_title(); ?>
+              </h2>
+            </header>
+          <div class="date">
+            <?php
+            $date = get_field('esemeny_datuma', false, false);
+            $date = new DateTime($date);
+            ?>
+            <?php echo $date->format('Y'); ?>
+
+          <date datetime="<?php echo $date->format('Y-m-d'); ?>" class="day">
+            <?php
+            $date = get_field('esemeny_datuma', false, false);
+            $date = new DateTime($date);
+            ?>
+            <?php echo $date->format('m.d'); ?>
+            -
+            <?php
+            $date = get_field('esemeny_vege', false, false);
+            $date = new DateTime($date);
+            ?>
+            <?php echo $date->format('m.d'); ?>
+          </date>
+          </div>
+            <div class="place">
+              <?php
+              if( get_post_type() == 'esemenyek' ) {
+                  the_field('hely_megnevezese');
+              }
+              ?>
+            </div>
+            <div class="address">
+              Cím: <?php
+              if( get_post_type() == 'esemenyek' ) {
+                  the_field('esemeny_helyszine_szoveggel');
+              }
+              ?>
+            </div>
+            <div class="add-calendar">
+              <div title="Add to Calendar" class="addeventatc">
+    Hozzáadás a naptárhoz
+    <span class="start">
+      <?php
+      $date = get_field('esemeny_datuma', false, false);
+      $date = new DateTime($date);
+      ?>
+      <?php echo $date->format('Y-m-d'); ?>
+    </span>
+    <span class="end">
+      <?php
+      $date = get_field('esemeny_vege', false, false);
+      $date = new DateTime($date);
+      ?>
+      <?php echo $date->format('Y-m-d'); ?>
+    </span>
+    <span class="timezone">Europe/Budapest</span>
+    <span class="title">
+      <?php the_title(); ?>
+    </span>
+    <span class="description">
+      <?php echo get_excerpt(); ?>
+      <br />
+      A Unicam Magyarország kft. oldaláról feliratkozva: <?php the_permalink(); ?>
+    </span>
+    <span class="location">
+      <?php
+      if( get_post_type() == 'esemenyek' ) {
+          the_field('esemeny_helyszine_szoveggel');
+      } ?>
+    </span>
+    <span class="organizer">Unicam Magyarország Kft.</span>
+    <span class="organizer_email">unicam@unicam.hu</span>
+    <span class="date_format">YYYY/MM/DD</span>
+    <span class="client">adMYzybrnzfKHcQpammE20349</span>
+</div>
+              <!-- <span class="addtocalendar atc-style-blue">
+                <a class="atcb-link">
+                  Hozzáadás a naptárhoz
+                  <span class="icon">
+                    <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                        <path d="M19,19V7H5V19H19M16,1H18V3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5C3,3.89 3.89,3 5,3H6V1H8V3H16V1M11,9H13V12H16V14H13V17H11V14H8V12H11V9Z" />
+                    </svg>
+                  </span>
+                </a>
+                  <var class="atc_event">
+                      <var class="atc_date_start">
+                        <?php
+                        $date = get_field('esemeny_datuma', false, false);
+                        $date = new DateTime($date);
+                        ?>
+                        <?php echo $date->format('Y-m-d'); ?>
+                      </var>
+                      <var class="atc_date_end">
+                        <?php
+                        $date = get_field('esemeny_vege', false, false);
+                        $date = new DateTime($date);
+                        ?>
+                        <?php echo $date->format('Y-m-d'); ?>
+                      </var>
+                      <var class="atc_timezone">Europe/Budapest</var>
+                      <var class="atc_title"><?php the_title(); ?></var>
+                      <var class="atc_description">
+                        A Unicam Magyarország kft. oldaláról feliratkozva: <?php the_permalink(); ?>
+                      </var>
+                      <var class="atc_location">
+                        <?php
+                        if( get_post_type() == 'esemenyek' ) {
+                            the_field('esemeny_helyszine_szoveggel');
+                        } ?>
+                      </var>
+                  </var>
+              </span> -->
+            </div>
+          </div>
+          <div class="col-lg-7 col-md-7 right">
+            <address class="event-map">
+              <?php
+              if( get_post_type() == 'esemenyek' ) {
+                  the_field('esemeny_helyszine_szoveggel');
+              } ?>
+            </address>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+        <hr />
+        <div class="container">
+          <div class="event-body">
+            <h2 class="subtitle">
+              A programról
+            </h2>
+            <div class="content">
+              <?php the_content(); ?>
+            </div>
+            <?php if( get_field('letoltheto_program') ): ?>
+            <div class="event-download">
+              <a target="_blank" href="<?php
+              if( get_post_type() == 'esemenyek' ) {
+                  the_field('letoltheto_program');
+              }
+              ?>" download="unicam-<?php the_title(); ?>">
+                Részletes program letöltése
+                <span class="icon">
+                  <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                      <path d="M5,20H19V18H5M19,9H15V3H9V9H5L12,16L19,9Z" />
+                  </svg>
+                </span>
+              </a>
+            </div>
+            <?php endif; ?>
+          </div>
+        </div>
+        <div class="event-downloads-wrapper">
+          <?php
+            // check if the repeater field has rows of data
+            if( have_rows('esemeny_letoltesei') ): ?>
+          <div class="product-accordion">
+            <ul class="list-unstyled accordion-list desktop-accordion">
+              <li class="accordion-item">
+                <div class="inside-item">
+                  <h3 class="title">
+                    További letöltések
+                  </h3>
+                  <span class="icon plus-icon pull-right">
+                    <span class="accordionbutton"></span>
+                  </span>
+                </div>
+                <ul class="accordion-open list-unstyled">
+
+                      <?php while ( have_rows('esemeny_letoltesei') ) : the_row(); ?>
+
+                        <?php
+                        $download = get_sub_field('esemeny_letoltes');
+                        $filename = basename($download);
+                        ?>
+
+
+                        <li class="accordion-open-item">
+                          <span class="link">
+                            <a href="<?php echo $download; ?>" download>
+                              <?php echo $filename; ?>
+                            </a>
+                          </span>
+                          <span class="icon">
+                            <a href="<?php echo $download; ?>" download>
+                              <svg style="width:20px;height:20px" viewBox="0 0 24 24">
+                                  <path d="M5,20H19V18H5M19,9H15V3H9V9H5L12,16L19,9Z" />
+                              </svg>
+                            </a>
+                          </span>
+                        </li>
+                      <?php endwhile; ?>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <?php endif; ?>
+        </div>
+    </article>
+  </div>
+</section>
+
+<?php get_footer(); ?>

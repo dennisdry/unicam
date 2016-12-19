@@ -1,0 +1,214 @@
+// out: ../css/print.css, sourcemap: false, compress: false
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
+
+@page {
+  size: A4;
+}
+
+@page :left {
+  margin-left: 1cm;
+}
+
+@page :right {
+  margin-left: 1cm;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+}
+
+.productpage {
+  .product-header {
+    position: relative;
+    .title-wrapper {
+      width: 60%;
+      float: left;
+      display: inline-block;
+    }
+    .manufacturer-logo {
+      width: 40%;
+      right: 0;
+      top: 0;
+      display: inline-block;
+      img {
+        width: 100%;
+      }
+    }
+  }
+  button {
+    display: none;
+  }
+  .seller-card {
+    display: block;
+    float: left;
+    margin-bottom: 0;
+    bottom: 0;
+    .image {
+      margin: 0;
+    }
+    img {
+      display: none;
+      float: left;
+    }
+    .name {
+      display: inline-block;
+      width: 78%;
+      float: right;
+      margin: 0;
+      font-size: 18px;
+    }
+    .position {
+      display: inline-block;
+      width: 78%;
+      float: right;
+      font-size: 14px;
+    }
+    .text {
+      display: inline-block;
+      width: 78%;
+      float: right;
+      .info,
+      .sendmail {
+        display: none;
+      }
+      .contact {
+        div {
+          margin: 0.5em 0;
+        }
+      }
+    }
+  }
+}
+
+.single-termekeink {
+  h1.title {
+    font-size: 2em;
+    width: 70%;
+  }
+  .product-header {
+    position: relative;
+    img {
+      width: 2in;
+      display: inline-block;
+      right: 0;
+      position: absolute;
+      margin: -0.8in 0 0 0;
+    }
+    .title-wrapper {
+      width: 60%;
+    }
+    .manufacturer-logo {
+      width: 40%;
+      img {
+        width: 100%;
+      }
+    }
+    button {
+      display: none;
+    }
+  }
+  .product-description {
+    font-size: 16px;
+    border-bottom: 1px solid #eee;
+  }
+  .seller-card {
+    display: block;
+    float: left;
+    margin: 1em 0;
+    bottom: 0;
+    position: absolute;
+    img {
+      width: 20%;
+      display: inline-block;
+      float: left;
+    }
+    .name {
+      display: inline-block;
+      width: 78%;
+      float: right;
+      margin: 0;
+      font-size: 18px;
+    }
+    .position {
+      display: inline-block;
+      width: 78%;
+      float: right;
+      font-size: 14px;
+    }
+    .text {
+      display: inline-block;
+      width: 78%;
+      float: right;
+      .info,
+      .sendmail {
+        display: none;
+      }
+      .contact {
+        div {
+          margin: 0.5em 0;
+        }
+      }
+    }
+  }
+  .product-accordion {
+    display: none;
+  }
+}
+
+.logo-print {
+  margin: 1em 0;
+  padding: 1em 0;
+  border-bottom: 1px solid #eee;
+  position: relative;
+  height: 4em;
+  img {
+    width: 3in;
+    position: absolute;
+    float: left;
+  }
+  .address {
+    float: right;
+    font-size: 14px;
+    opacity: .6;
+    span {
+      display: block;
+    }
+  }
+}
+
+.product-slider {
+  text-align: center;
+  img {
+    width: 40%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+
+
+.modal,
+#menu-topmenu,
+.search-open-desktop,
+.breadcrumb,
+.share-wrapper,
+.mobile-header,
+footer,
+.arrow-wrapper,
+.product-slider-pager,
+.product-accordion,
+.mobile-accordion,
+.related-videos,
+.menu-dark-overlay,
+.cbp-spmenu {
+  display: none !important;
+}
+a[href]:after {
+   content:"" !important;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
